@@ -1,5 +1,5 @@
-<h1 align="center">Hello! 我是 UN</h1>
-<h3 align="center">我是一名初階的前端工程師</h3>
+<h1>Hello! 我是 UN</h1>
+<h3>我是一名初階的前端工程師</h3>
 
 - 🔭 I’m currently working on [Tipro](https://github.com/unlinun/Tipro)
 
