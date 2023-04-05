@@ -1,33 +1,32 @@
 # Hello! 我是 LIN YU EN 
+### 個人作品網站 👉 [**UNLINUN**]("https://unlinun.onrender.com")
+***
 
-<p>
-          我是一位擁有豐富設計經驗和前端工程師技能的求職者。
-          <br />
-          在過去的一年中，我熱情投入學習前端技術，從簡單的 HTML/CSS 到
-          JavaScript、React、Node.js
-          等技術。在這個過程中，我深入了解程式有趣的地方，同時間也提升了我的開發能力和解決問題的能力。這些經驗不僅增強了我在處理事情的思考方式與邏輯，也有效的將我的設計能力結合於其中。
-          <br />
-          在最後，我將過去所學運用在實際專案中，創建了一個專案的時間管理網頁應用程式，請參考：
-          <a
-            href="https://tipro-app.onrender.com"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Tipro
-          </a>
-          。<br />
-          除了前端技術，我也擁有豐富的景觀設計經驗。我曾成功領導一個三人小團隊，協同完成多個景觀設計項目。在設計軟體方面，我從平面到3D都精通，能夠設計出具有高度美感和功能性的作品。同時，我也正在學習後端相關的基礎知識，希望未來可以成為一名兼具設計能力與程式編輯的全端工程師。
-          <br />
-          在我的個人網站中，展示了過去所學的作品和個人經驗。您可以在 gallery
-          頁面中，看到我過去一年中所學的作品，包括時間管理應用程式、響應式設計網站等等。
-          <br />
-          若您有興趣，請與我聯繫，感謝您的寶貴時間！
-        </p>
+### 關於我 :
+Hello,你好！很開心你來到我的主頁。
+我是一位擁有豐富設計經驗和前端工程師技能的求職者，目前正在努力的精進自己的前後端技巧中！
+
+- 心路歷程  
+在過去的一年中，我熱情投入學習前端技術，從簡單的 HTML/CSS 到JavaScript、React、Node.js等技術。
+在這個過程中，我深入了解程式有趣的地方，同時間也提升了我的開發能力和解決問題的能力。這些經驗不僅增強了我在處理事情的思考方式與邏輯，也有效的將我的設計能力結合於其中。
+在最後，我將過去所學運用在實際專案中，創建了一個專案的時間管理網頁應用程式，請參考 [**Tipro**]("https://tipro-app.onrender.com")
+- 過往經驗
+除了前端技術，我也擁有豐富的景觀設計經驗。我曾成功領導一個三人小團隊，協同完成多個景觀設計項目。
+在設計軟體方面，我從平面到3D都精通，能夠設計出具有高度美感和功能性的作品。
+- 未來期待
+除了前端技術外，我正在學習後端相關的基礎知識，希望未來可以成為一名兼具設計能力與程式編輯的全端工程師！
+
+### CHECK 我的個人網站 - [**UNLINUN**]("https://unlinun.onrender.com")
+
+如果你對我有興趣，歡迎隨時與我聯繫！
+email: unlinun@hotmail.com
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/unzoey9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unzoey9" height="30" width="40" /></a>
-<a href="https://www.behance.net/linyuen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="linyuen" height="30" width="40" /></a>
+<a href="https://instagram.com/unzoey9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unzoey9" height="28" width="28" /></a>
+<a href="https://www.behance.net/linyuen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="linyuen" height="28" width="28" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
