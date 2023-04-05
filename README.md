@@ -5,11 +5,12 @@
 Hello,你好！很開心你來到我的主頁。
 我是一位擁有豐富設計經驗和前端工程師技能的求職者，目前正在努力的精進自己的前後端技巧中！
 
-- 心路歷程  
+- 心路歷程
 
 在過去的一年中，我熱情投入學習前端技術，從簡單的 HTML/CSS 到JavaScript、React、Node.js等技術。
 在這個過程中，我深入了解程式有趣的地方，同時間也提升了我的開發能力和解決問題的能力。這些經驗不僅增強了我在處理事情的思考方式與邏輯，也有效的將我的設計能力結合於其中。
-在最後，我將過去所學運用在實際專案中，創建了一個專案的時間管理網頁應用程式，請參考 <a href="https://tipro-app.onrender.com" target="_blank">Tipro</a>
+在最後，我將過去所學運用在實際專案中，創建了一個專案的時間管理網頁應用程式，請參考 
+<a href="https://tipro-app.onrender.com" target="_blank">Tipro</a>
 
 - 過往經驗
 
@@ -19,7 +20,8 @@ Hello,你好！很開心你來到我的主頁。
 
 除了前端技術外，我正在學習後端相關的基礎知識，希望未來可以成為一名兼具設計能力與程式編輯的全端工程師！
 
-### CHECK 我的個人網站 - <a href="[https://tipro-app.onrender.com](https://unlinun.onrender.com)" target="_blank">UNLINUN</a>
+### CHECK 我的個人網站
+<a href="[https://tipro-app.onrender.com](https://unlinun.onrender.com)" target="_blank">UNLINUN</a>
 
 ***
 
