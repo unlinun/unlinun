@@ -1,17 +1,11 @@
-<h1>Hello! 我是 UN</h1>
-<h3>我是一名初階的前端工程師</h3>
+# Hello! 我是 LIN YU EN 
 
-- 🔭 I’m currently working on [Tipro](https://github.com/unlinun/Tipro)
-
-- 🌱 I’m currently learning **clean code, error handle**
-
-- 👨‍💻 All of my projects are available at [https://github.com/unlinun](https://github.com/unlinun)
-
-- 💬 Ask me about **design, ui, sass**
-
-- 📫 How to reach me **unlinun@hotmail.com**
-
-- ⚡ Fun fact **我是一個充滿想像，喜歡設計，也喜歡看見設計落實的人。**
+我是一位擁有豐富設計經驗和前端工程師技能的求職者。
+在過去的一年中，我熱情投入學習前端技術，從簡單的 HTML/CSS 到 JavaScript、React、Node.js 等技術。在這個過程中，我深入了解程式有趣的地方，同時間也提升了我的開發能力和解決問題的能力。這些經驗不僅增強了我在處理事情的思考方式與邏輯，也有效的將我的設計能力結合於其中。
+在最後，我將過去所學運用在實際專案中，創建了一個專案的時間管理網頁應用程式，請參考：Tipro。
+除了前端技術，我也擁有豐富的景觀設計經驗。我曾成功領導一個三人小團隊，協同完成多個景觀設計項目。在設計軟體方面，我從平面到3D都精通，能夠設計出具有高度美感和功能性的作品。同時，我也正在學習後端相關的基礎知識，希望未來可以成為一名兼具設計能力與程式編輯的全端工程師。
+在我的個人網站中，展示了過去所學的作品和個人經驗。您可以在 gallery 頁面中，看到我過去一年中所學的作品，包括時間管理應用程式、響應式設計網站等等。
+若您有興趣，請與我聯繫，感謝您的寶貴時間！
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
