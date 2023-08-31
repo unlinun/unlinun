@@ -1,10 +1,6 @@
 # Hello! 我是 LIN YU EN 
 ***
 
-### 關於我 :
-Hello,你好！很開心你來到我的主頁。
-我是一位擁有豐富設計經驗和前端工程師技能的求職者，目前正在努力的精進自己的前後端技巧中！
-
 - 心路歷程
 
 在過去的一年中，我熱情投入學習前端技術，從 HTML/CSS 到JavaScript、React、Node.js等技術。
@@ -32,7 +28,6 @@ email: unlinun@hotmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/unzoey9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unzoey9" height="28" width="28" /></a>
 <a href="https://www.behance.net/linyuen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="linyuen" height="28" width="28" /></a>
 </p>
 
