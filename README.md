@@ -1,9 +1,9 @@
-# Hello! 我是 LIN YU EN 
+# Welcome
 ***
 
 - 心路歷程
 
-在過去的一年中，我熱情投入學習前端技術，從 HTML/CSS 到JavaScript、React、Node.js等技術。
+從設計踏入程式的茫茫大海中，從 HTML/CSS 到JavaScript、React、Node.js不停學習。
 在這個過程中，我深入了解程式有趣的地方，同時間也提升了我的開發能力和解決問題的能力。這些經驗不僅增強了我在處理事情的思考方式與邏輯，也有效的將我的設計能力結合於其中。
 在最後，我將過去所學運用在實際專案中，創建了一個專案的時間管理網頁應用程式，請參考 
 <a href="https://tipro-app.onrender.com" target="_blank">Tipro</a>
